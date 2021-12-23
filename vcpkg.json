@@ -1,0 +1,10 @@
+{
+  "name": "go2native",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "openssl",
+    {
+      "name": "civetweb"
+    }
+  ]
+}
